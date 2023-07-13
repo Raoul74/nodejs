@@ -1,0 +1,11 @@
+{
+  "name": "nodeapipokemon",
+  "version": "1.0.0",
+  "description": "this application give us funny and science",
+  "main": "serveur.js",
+  "scripts": {
+    "start": " node serveur.js"
+  },
+  "author": "MrRaoul",
+  "license": "ISC"
+}
